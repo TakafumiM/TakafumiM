@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm an undergrad at UCSD majoring Data Science.
+https://takafumim.github.io/portfolio/
